@@ -8,6 +8,7 @@ NOTE: You can find a openai_connect.py file in the project which may seem to be 
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -40,6 +41,32 @@ Instructions on how to use the project.
 # Run the project
 python main.py
 ```
+
+## Screenshots
+
+### Initial look
+
+![Initial look](assets/pyp1.png)
+
+### Full screen look
+
+![Full screen look](assets/pyp2.png)
+
+### Prompt 1
+
+![Prompt 1](assets/pyp3.png)
+
+### Response 1
+
+![Response 1](assets/pyp4.png)
+
+### Prompt 2
+
+![Prompt 2](assets/pyp5.png)
+
+### Response 2
+
+![Response 2](assets/pyp6.png)
 
 ## Contributing
 
