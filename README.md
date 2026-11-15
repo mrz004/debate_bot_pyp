@@ -24,7 +24,7 @@ git clone https://github.com/mrz004/debate_bot_pyp.git
 cd debate_bot_pyp
 
 # Install dependencies
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
